@@ -1,0 +1,272 @@
+{
+  "nbs/01_matmul.ipynb": {
+    "original_hash": "ecf19d24d09e36fb3d3bafc0fe8ec070",
+    "translation_date": "2026-03-30T08:44:02+00:00",
+    "source_file": "nbs/01_matmul.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/02_meanshift.ipynb": {
+    "original_hash": "59a675fc35a7f8a16936040b6ef4f606",
+    "translation_date": "2026-03-30T08:57:22+00:00",
+    "source_file": "nbs/02_meanshift.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/03_backprop.ipynb": {
+    "original_hash": "ff9bdf80c1887c1b4dccab2d443584a2",
+    "translation_date": "2026-03-30T09:10:05+00:00",
+    "source_file": "nbs/03_backprop.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/04_minibatch_training.ipynb": {
+    "original_hash": "d224bc7fa0aebeafe1182aeff2e3afd2",
+    "translation_date": "2026-03-30T08:54:37+00:00",
+    "source_file": "nbs/04_minibatch_training.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/05_datasets.ipynb": {
+    "original_hash": "cfa5d809b2118a69cd199c43c777934f",
+    "translation_date": "2026-03-30T08:58:12+00:00",
+    "source_file": "nbs/05_datasets.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/06_foundations.ipynb": {
+    "original_hash": "7d358debb55b6b60acf9323340ee3433",
+    "translation_date": "2026-03-30T09:12:48+00:00",
+    "source_file": "nbs/06_foundations.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/07_convolutions.ipynb": {
+    "original_hash": "4b45858123fc1ac738be7e2500e2e024",
+    "translation_date": "2026-03-30T09:02:31+00:00",
+    "source_file": "nbs/07_convolutions.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/08_autoencoder.ipynb": {
+    "original_hash": "2733cc76c968e4c2f6547f9b192a448b",
+    "translation_date": "2026-03-30T08:40:03+00:00",
+    "source_file": "nbs/08_autoencoder.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/09_learner.ipynb": {
+    "original_hash": "ff4fbdcc1c92727f4156a71e16a36285",
+    "translation_date": "2026-03-30T08:49:36+00:00",
+    "source_file": "nbs/09_learner.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/10_activations.ipynb": {
+    "original_hash": "5e17ba2702e33fcb04e30044afc17c0b",
+    "translation_date": "2026-03-30T08:56:03+00:00",
+    "source_file": "nbs/10_activations.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/11_initializing.ipynb": {
+    "original_hash": "9ed1f78852b67f7107aced4ac8532761",
+    "translation_date": "2026-03-30T08:39:42+00:00",
+    "source_file": "nbs/11_initializing.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/12_accel_sgd.ipynb": {
+    "original_hash": "963f367c4201fdab3ae60ee66f273267",
+    "translation_date": "2026-03-30T09:03:33+00:00",
+    "source_file": "nbs/12_accel_sgd.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/13_resnet.ipynb": {
+    "original_hash": "b885eb502ffcf700cccfe0dc08516be6",
+    "translation_date": "2026-03-30T08:51:34+00:00",
+    "source_file": "nbs/13_resnet.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/14_augment.ipynb": {
+    "original_hash": "edae20ca4d637a13ed5c07905a9e6106",
+    "translation_date": "2026-03-30T09:04:28+00:00",
+    "source_file": "nbs/14_augment.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/15_DDPM.ipynb": {
+    "original_hash": "bc096df792d063f73f8286101c66c188",
+    "translation_date": "2026-03-30T09:08:20+00:00",
+    "source_file": "nbs/15_DDPM.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/16A_StyleTransfer.ipynb": {
+    "original_hash": "f7c28f24ad7775c9d2eccc29809fa53a",
+    "translation_date": "2026-03-30T08:47:22+00:00",
+    "source_file": "nbs/16A_StyleTransfer.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/16B_NCA.ipynb": {
+    "original_hash": "196fa3c297b76f4beac4f197cefdfa1c",
+    "translation_date": "2026-03-30T08:48:15+00:00",
+    "source_file": "nbs/16B_NCA.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/17_DDPM_v2.ipynb": {
+    "original_hash": "881d69125e21539eb45f71afb08285c6",
+    "translation_date": "2026-03-30T08:58:55+00:00",
+    "source_file": "nbs/17_DDPM_v2.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/18_fid.ipynb": {
+    "original_hash": "310254b383a4f688e5edf8b16933744c",
+    "translation_date": "2026-03-30T08:41:23+00:00",
+    "source_file": "nbs/18_fid.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/19_DDPM_v3.ipynb": {
+    "original_hash": "2df18dec873ca696f110f577e956a3e2",
+    "translation_date": "2026-03-30T08:57:45+00:00",
+    "source_file": "nbs/19_DDPM_v3.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/20_DDIM.ipynb": {
+    "original_hash": "b9f1b06393dca8b375b9739806fd034d",
+    "translation_date": "2026-03-30T09:13:49+00:00",
+    "source_file": "nbs/20_DDIM.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/21_cifar10_and_wandb.ipynb": {
+    "original_hash": "3fafe711be29411bb5d1783d375c1cd4",
+    "translation_date": "2026-03-30T09:10:37+00:00",
+    "source_file": "nbs/21_cifar10_and_wandb.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/22_cosine.ipynb": {
+    "original_hash": "26fd496b41ae58a74b892142667eaac2",
+    "translation_date": "2026-03-30T08:36:29+00:00",
+    "source_file": "nbs/22_cosine.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/22_noise-pred.ipynb": {
+    "original_hash": "8bc764843d0cba7412a1c470943f6895",
+    "translation_date": "2026-03-30T08:45:06+00:00",
+    "source_file": "nbs/22_noise-pred.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/23_karras.ipynb": {
+    "original_hash": "17fc63029125bd69e65946d5225cd1bf",
+    "translation_date": "2026-03-30T08:50:01+00:00",
+    "source_file": "nbs/23_karras.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/24_imgnet_tiny-wide.ipynb": {
+    "original_hash": "c418dc413e4cbb67dabcbf9eb0d8c971",
+    "translation_date": "2026-03-30T08:50:47+00:00",
+    "source_file": "nbs/24_imgnet_tiny-wide.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/24_imgnet_tiny-widish.ipynb": {
+    "original_hash": "2f6ddf76c6db19a9a6c02299c4263544",
+    "translation_date": "2026-03-30T08:59:08+00:00",
+    "source_file": "nbs/24_imgnet_tiny-widish.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/24_imgnet_tiny.ipynb": {
+    "original_hash": "30441e9f41d960fa969042a820715076",
+    "translation_date": "2026-03-30T08:40:54+00:00",
+    "source_file": "nbs/24_imgnet_tiny.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/24a_imgnet_tiny-200.ipynb": {
+    "original_hash": "b66218ae2380aa797fe63bf7483c82f2",
+    "translation_date": "2026-03-30T08:54:54+00:00",
+    "source_file": "nbs/24a_imgnet_tiny-200.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/25_superres.ipynb": {
+    "original_hash": "6b3d44ea90244602696bf082358ac83e",
+    "translation_date": "2026-03-30T08:50:34+00:00",
+    "source_file": "nbs/25_superres.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/26_diffusion_unet.ipynb": {
+    "original_hash": "da5a3a15fb37e3cd00f5b11387a175a8",
+    "translation_date": "2026-03-30T09:13:18+00:00",
+    "source_file": "nbs/26_diffusion_unet.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/27_attention.ipynb": {
+    "original_hash": "8bc731b18dd9b852fa2be28ba572a0f8",
+    "translation_date": "2026-03-30T09:04:40+00:00",
+    "source_file": "nbs/27_attention.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/28_diffusion-attn-cond.ipynb": {
+    "original_hash": "6dd5fec527f48df801324f547329684c",
+    "translation_date": "2026-03-30T09:14:17+00:00",
+    "source_file": "nbs/28_diffusion-attn-cond.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/29_vae.ipynb": {
+    "original_hash": "b291242664b037c53ae947e8ce107aca",
+    "translation_date": "2026-03-30T08:44:34+00:00",
+    "source_file": "nbs/29_vae.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/30_lsun_diffusion-latents.ipynb": {
+    "original_hash": "779b267f789dd99c3ac27559aef43d2f",
+    "translation_date": "2026-03-30T09:08:50+00:00",
+    "source_file": "nbs/30_lsun_diffusion-latents.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/30_lsun_diffusion-simple.ipynb": {
+    "original_hash": "6ea5dd2e9c57bb4f8540d6a00033bc63",
+    "translation_date": "2026-03-30T09:10:23+00:00",
+    "source_file": "nbs/30_lsun_diffusion-simple.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/31_imgnet_latents-widish.ipynb": {
+    "original_hash": "93c9f54d80bf9955b65a9ffa0cb371fb",
+    "translation_date": "2026-03-30T08:48:29+00:00",
+    "source_file": "nbs/31_imgnet_latents-widish.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/_16_learnerdict.ipynb": {
+    "original_hash": "a9929fc44c953d1b83c622d6da1f3d7b",
+    "translation_date": "2026-03-30T08:57:54+00:00",
+    "source_file": "nbs/_16_learnerdict.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/_DDPM_profiler.ipynb": {
+    "original_hash": "3a135fd57bc24babe91f06e0fbeac6b1",
+    "translation_date": "2026-03-30T09:09:07+00:00",
+    "source_file": "nbs/_DDPM_profiler.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/_Diffusion_Model_Test.ipynb": {
+    "original_hash": "dbf8c09cf569ebf035e85a83bf6f6e70",
+    "translation_date": "2026-03-30T09:05:39+00:00",
+    "source_file": "nbs/_Diffusion_Model_Test.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/_callbacks.ipynb": {
+    "original_hash": "1f6189ccdd2461efcf4ff2d5ce7c9c14",
+    "translation_date": "2026-03-30T08:40:26+00:00",
+    "source_file": "nbs/_callbacks.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/_learner_cb_chain.ipynb": {
+    "original_hash": "c5f7201224445dde7d040e236c389ad0",
+    "translation_date": "2026-03-30T09:06:42+00:00",
+    "source_file": "nbs/_learner_cb_chain.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/consistency.ipynb": {
+    "original_hash": "a97fd9c4fd95940d3a3e4333c5f459c2",
+    "translation_date": "2026-03-30T09:11:47+00:00",
+    "source_file": "nbs/consistency.ipynb",
+    "language_code": "zh-CN"
+  },
+  "nbs/segmentation.ipynb": {
+    "original_hash": "4203303429ed5394378a603269cd7dc4",
+    "translation_date": "2026-03-30T09:04:34+00:00",
+    "source_file": "nbs/segmentation.ipynb",
+    "language_code": "zh-CN"
+  },
+  "summaries/summarize.ipynb": {
+    "original_hash": "da24f1b20bd2d1211af04b4183b5ff9c",
+    "translation_date": "2026-03-30T09:14:27+00:00",
+    "source_file": "summaries/summarize.ipynb",
+    "language_code": "zh-CN"
+  }
+}
